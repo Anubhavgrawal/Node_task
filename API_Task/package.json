@@ -1,0 +1,14 @@
+{
+  "name": "api_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Task_api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
